@@ -1,1 +1,1 @@
-# bmtk_loihi_utils
+# BMTK-Loihi Datasets
