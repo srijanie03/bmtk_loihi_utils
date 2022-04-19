@@ -9,7 +9,7 @@ This dataset lists the different parameter sets and stimulus sets used in the va
 - The spike-train data is in CSV format.
 
 ## Preparation
-This repository uses the tutorials for the Point Neuron Models in the [BMTK] (https://github.com/AllenInstitute/bmtk) repository to build the networks and run the simulations in BMTK.
+This repository uses the tutorials for the Point Neuron Models in the [BMTK](https://github.com/AllenInstitute/bmtk) repository to build the networks and run the simulations in BMTK.
 
 For simulations run on Loihi, access to the Loihi software development kit (NxSDK) and the Loihi hardware is needed.
 More information can be found in: https://www.intel.com/content/www/us/en/research/neuromorphic-community.html For community support, Q&A and other information, please visit: http://neuromorphic.intel.com
