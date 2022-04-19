@@ -4,6 +4,6 @@ This dataset lists the different parameter sets and stimulus sets used in the va
 - External spike-train stimulus data generated using random Poisson process.
 
 
-#Data
+## Data
 - The parameter set data is in JSON format and is used directly into BMTK. It is converted into a python dictionary for use in Loihi.
 - The spike-train data is in CSV format.
